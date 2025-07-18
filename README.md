@@ -37,13 +37,7 @@ _BSc in Communication and Information Engineering_
 
 ---
 
-## 💼 Experience
 
-**Presentation Designer (Freelance)**  
-📍 Doha, Qatar  
-🧠 I specialize in simplifying technical and scientific content into visually clear presentations.
-
----
 
 ## 📫 Contact Me
 
