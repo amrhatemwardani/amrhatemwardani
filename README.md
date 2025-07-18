@@ -33,12 +33,15 @@ I love working with **data**, building **smart systems**, and making complex thi
 
 **Zewail City of Science and Technology**  
 _BSc in Communication and Information Engineering_  
-📅 2023 – 2027 | 📈 GPA: 81.89%
-
-**STEM High School, Minya**  
-📅 2020 – 2023
+📅 2023 – 2027 (Expected) | 📈 GPA: 81.89%
 
 ---
+
+## 💼 Experience
+
+**Presentation Designer (Freelance)**  
+📍 Doha, Qatar  
+🧠 I specialize in simplifying technical and scientific content into visually clear presentations.
 
 ---
 
@@ -51,4 +54,3 @@ _BSc in Communication and Information Engineering_
 ---
 
 > “Data is the new oil, and I'm learning how to refine it.”
-
