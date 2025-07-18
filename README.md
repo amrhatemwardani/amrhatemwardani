@@ -33,7 +33,7 @@ I love working with **data**, building **smart systems**, and making complex thi
 
 **Zewail City of Science and Technology**  
 _BSc in Communication and Information Engineering_  
-📅 2023 – 2027 (Expected) | 📈 GPA: 81.89%
+📅 2023 – 2027 (Expected) |
 
 ---
 
